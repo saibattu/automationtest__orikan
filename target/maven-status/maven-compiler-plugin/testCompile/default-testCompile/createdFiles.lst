@@ -1,0 +1,9 @@
+pages\Contact.class
+MainTest.class
+pages\BaseClass.class
+pages\Complete.class
+pages\Registration.class
+pages\Errors.class
+EmailErrorAlert.class
+pages\Payment.class
+pages\TermsConditions.class
